@@ -13,7 +13,7 @@
 - ⭐ Github Star ⭐
 - 🌍  I'm based in Perú
 - 📲  Software Developer
-- 🎥 I teach app development on YouTube [Youtube](https://youtube.com/@FiveCodSoftWare) (+1.5k subs)
+- 🎥 I teach app development on [Youtube](https://youtube.com/@FiveCodSoftWare) (+1.5k subs)
 - ✉️ You can contact me at [fivecods@gmail.com](mailto:fivecods@gmail.com)
 - 🧠 I'm learning SwiftUI
 <br>
