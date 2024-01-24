@@ -53,7 +53,7 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Kotlin" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Kotlin" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
@@ -63,105 +63,104 @@
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="C++" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="C++" />
   </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="C" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="C" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="HTML5" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="HTML5" />
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Angular" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Angular" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="CSS3" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="CSS3" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Bootstrap" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Bootstrap" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="NodeJS" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="NodeJS" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Express" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Express" />
   </a>
   <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="NestJS" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="NestJS" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="MySQL" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="MySQL" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="PostgreSQL" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="PostgreSQL" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="MongoDB" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="MongoDB" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Docker" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Docker" />
   </a>
   <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Digital Ocean" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Digital Ocean" />
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Flutter" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Flutter" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Laravel" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Laravel" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt=".NET" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt=".NET" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Figma" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Figma" />
   </a>
   <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="XD" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="XD" />
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
-      style="padding-right:10px;" width="36" height="36" alt="Google Cloud" />
+      align="left" style="padding-right:10px;" width="36" height="36" alt="Google Cloud" />
   </a>
 </p>
-
 <!-- 
 ## ⚙️ &nbsp;GitHub Analytics
 ### <b>My GitHub Stats</b>
