@@ -24,6 +24,11 @@
 </p>
 <br>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FiveCodSoftWare/FiveCodSoftWare/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- 
 ## ⚙️ &nbsp;GitHub Analytics
 ### <b>My GitHub Stats</b>
