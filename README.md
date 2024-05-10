@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/FiveCodSoftWare/FiveCodSoftWare/output/snake.svg" alt="Snake animation" />
 
 ###
- 
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 ### <b>My GitHub Stats</b>
 
@@ -41,7 +41,7 @@
 
 ### <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/FiveCodSoftWare/FiveCodMaterialDesign" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FiveCodSoftWare&repo=FiveCodMaterialDesign&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/FiveCodSoftWare/appgallobet" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FiveCodSoftWare&repo=appgallobet&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+-->
 
 
 ## 📺 Latest YouTube Videos
