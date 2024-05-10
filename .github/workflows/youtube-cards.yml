@@ -4,7 +4,7 @@ on:
     # At 12:00 AM, only on Friday
     - cron: "0 0 * * FRI"
   workflow_dispatch:
-
+  
 jobs:
   build:
     runs-on: ubuntu-latest
