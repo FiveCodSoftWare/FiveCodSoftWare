@@ -18,5 +18,6 @@ jobs:
         with:
           channel_id: UCfGzDFVjHpZN4lqm5VA2Y_g
           comment_tag_name: YOUTUBE-CARDS
+          readme_path: README.md
       - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
         shell: bash
