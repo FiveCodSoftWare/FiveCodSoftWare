@@ -24,4 +24,5 @@ jobs:
         shell: bash
         env:
           MARKDOWN: ${{ steps.youtube-cards.outputs.markdown }}
-        run: echo "OUTPUT: $MARKDOWN"
+        run: |
+          echo "OUTPUT: $MARKDOWN"
