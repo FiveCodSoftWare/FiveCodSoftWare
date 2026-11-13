@@ -9,20 +9,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Permite que el job haga commit en el repositorio
     permissions:
       contents: write
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
-        id: youtube-cards
         with:
           channel_id: UCfGzDFVjHpZN4lqm5VA2Y_g
           comment_tag_name: YOUTUBE-CARDS
           readme_path: README.md
-
-      - name: Mostrar markdown generado
-        shell: bash
-        env:
-          MARKDOWN: ${{ steps.youtube-cards.outputs.markdown }}
-        run: |
-          echo "OUTPUT: $MARKDOWN"
